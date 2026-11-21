@@ -1,6 +1,7 @@
 {
   "produtos": [
     {
+      "codigo": "TESTE-PRIME-001",
       "id_externo": "TESTE-PRIME-001",
       "marca": "Toyota",
       "modelo": "Corolla Teste Integracao",
