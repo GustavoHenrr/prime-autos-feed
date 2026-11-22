@@ -1,0 +1,17 @@
+{
+  "produtos": [
+    {
+      "codigo": "TESTE-FOTOS-001",
+      "marca": "Toyota",
+      "modelo": "Corolla Teste Fotos",
+      "descricao": "Veiculo ficticio para validacao de fotografias",
+      "ano_fabricacao": 2025,
+      "ano_modelo": 2025,
+      "preco": 100000,
+      "fotos": [
+        "https://arquivos.boomsistemas.com.br/veiculos/2026/956345/gb-f290264.jpg",
+        "https://arquivos.boomsistemas.com.br/veiculos/2026/956345/gb-58a3fe2.jpg"
+      ]
+    }
+  ]
+}
