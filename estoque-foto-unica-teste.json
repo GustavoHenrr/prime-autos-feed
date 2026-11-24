@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "codigo": "TESTE-FOTO-UNICA-001",
+      "marca": "Toyota",
+      "modelo": "Corolla Teste Foto",
+      "descricao": "Veiculo ficticio para validar importacao",
+      "ano_fabricacao": 2025,
+      "ano_modelo": 2025,
+      "cor": "Branca",
+      "quilometragem": 1000,
+      "combustivel": "Flex",
+      "cambio": "Automatico",
+      "portas": 4,
+      "preco": 100000,
+      "foto": "https://arquivos.boomsistemas.com.br/veiculos/2026/956345/gb-f290264.jpg"
+    }
+  ]
+}
