@@ -4,6 +4,7 @@
       "codigo": "TESTE-FOTO-UNICA-001",
       "marca": "Toyota",
       "modelo": "Corolla Teste Foto",
+      "placa": "TESTE001",
       "descricao": "Veiculo ficticio para validar importacao",
       "ano_fabricacao": 2025,
       "ano_modelo": 2025,
